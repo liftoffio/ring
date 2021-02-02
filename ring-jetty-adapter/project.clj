@@ -1,6 +1,6 @@
-(defproject ring/ring-jetty-adapter "1.8.2"
+(defproject ring/ring-jetty-adapter "1.8.2-liftoff1"
   :description "Ring Jetty adapter."
-  :url "https://github.com/ring-clojure/ring"
+  :url "https://github.com/liftoff/ring"
   :scm {:dir ".."}
   :license {:name "The MIT License"
             :url "http://opensource.org/licenses/MIT"}
